@@ -1,2 +1,5 @@
 # ignore environement files
 .venv/
+
+# ignore salary folder
+salary/
