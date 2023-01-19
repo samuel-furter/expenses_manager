@@ -1,4 +1,2 @@
-# ignore ALL .log files
-
-# ignore ALL files in ANY directory named t
+# ignore environement files
 .venv/
